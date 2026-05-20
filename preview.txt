@@ -1,0 +1,8 @@
+Expense Tracker Preview
+
+- Login/Register with JWT authentication.
+- Add and categorize expenses by date and category.
+- View monthly totals and comparison with previous months.
+- Get budget alerts with green/orange/red savings status.
+- Predict next month expenses using recent spending trends.
+- Send SMTP alert emails when budget thresholds are exceeded.
